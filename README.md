@@ -19,18 +19,18 @@ MySQL<br>
 Maven<br>
 Postman (for testing)<br>
 
-expense-tracker/
-├── src/
-│   ├── controller/        # REST API Controllers
-│   ├── service/           # Business logic layer
-│   ├── model/             # Entity classes
-│   ├── repository/        # JPA repositories
-│   ├── config/            # Security and config files
-│   └── dto/               # Data Transfer Objects
-├── resources/
-│   ├── application.properties
-├── pom.xml
-└── README.md
+expense-tracker/<br>
+├── src/<br>
+│   ├── controller/        # REST API Controllers<br>
+│   ├── service/           # Business logic layer<br>
+│   ├── model/             # Entity classes<br>
+│   ├── repository/        # JPA repositories<br>
+│   ├── config/            # Security and config files<br>
+│   └── dto/               # Data Transfer Objects<br>
+├── resources/<br>
+│   ├── application.properties<br>
+├── pom.xml<br>
+└── README.md<br>
 
 🧑‍💻 Author<br>
 Built by Priyanshu Pradhan
